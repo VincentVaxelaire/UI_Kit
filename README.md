@@ -29,7 +29,7 @@
     - [ ] Tests unitaires et intégration continue
         - [ ] Mettre en place des tests unitaires pour assurer la stabilité des composants
         - [ ] Configurer une intégration continue pour automatiser les tests à chaque modification
-    - Support des navigateurs
+    - [ ] Support des navigateurs
         - [ ] Tester et assurer la compatibilité avec différents navigateurs (Chrome, Firefox, Safari, Edge)
         - [ ] Gérer les versions spécifiques des navigateurs
     - [ ] Performances
