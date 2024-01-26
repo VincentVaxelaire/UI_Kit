@@ -1,58 +1,43 @@
-# create-svelte
+# A FAIRE
 
-Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+/!\ Des changements sont à prévoir, c'est juste une liste d'idées qui devrait évoluer avec le temps /!\
 
-Read more about creating a library [in the docs](https://kit.svelte.dev/docs/packaging).
+- [] Recherche
+    - [] Réfléchir à la structures des fichiers
+    - [] Sélectionner les composants courant sur le web
+        - [] Définir les cas d'usages et leur rôle
+        - [] Rechercher des exemples de designs pour les composants choisis
+    - [] Définir des règles de design communes
+    - [] Définir des règles de développement communes
 
-## Creating a project
+- [] Composants
+    - [] Définir l'API
+    - [] Documenter l'API
+    - [] Contruire les composants en fonctions des règles de design/développement et de l'API
+    - [] Ajouter de l'intéractivité pour les composants qui en ont besoin (ex : accordéon, alert)
+    - [] Revoir les règles ARIA guidelines
+    - [] Documenter les composants (utilisation et astuce)
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [] Générateur et utils
+    - [] Librairie d'icon intéractif et animé
+    - [] Créateur de gradiant
+    - [] 3D container
+    - [] Documentation continu
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- [] Animations
+    - [] Se renseigner sur les API d'animation de la Web Platform
+    - [] Définir des règles de développement en accord avec les règles de design
+    - [] Construire une librairie d'animation via des composants
+    - [] Documentation continu
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- [] Expérimentations
+    - [] Intégration de composants créatif type Awwwards.com
+    - [] Documentation continu
 
-## Developing
+- [] corriger les fautes
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-Everything inside `src/lib` is part of your library, everything inside `src/routes` can be used as a showcase or preview app.
-
-## Building
-
-To build your library:
-
-```bash
-npm run package
-```
-
-To create a production version of your showcase app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-## Publishing
-
-Go into the `package.json` and give your package the desired name through the `"name"` option. Also consider adding a `"license"` field and point it to a `LICENSE` file which you can create from a template (one popular option is the [MIT license](https://opensource.org/license/mit/)).
-
-To publish your library to [npm](https://www.npmjs.com):
-
-```bash
-npm publish
-```
+- [] Traduire en anglais (parce que l'on est pas des sauvageons C:)
+    - [] Mise en place d'une librairie maison pour internationalisé le contenu des documentation
+    - [] Proposer une template de traduction communautaire
+    - [] Traduire en Anglais
+    - [] Traduire en Espagnol
