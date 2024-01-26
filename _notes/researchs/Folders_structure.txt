@@ -4,21 +4,25 @@ src/
 |       |-- fadeIn.svelte
 |       |-- slideIn.svelte
 |       |-- ...
+|
 |   |-- components/
 |       |-- Button.svelte
 |       |-- Input.svelte
 |       |-- Accordion.svelte
 |       |-- ...
+|
 |   |-- experiments/
 |       |-- creative-components/
 |           |-- Marquee.svelte
 |           |-- ...
+|
 |   |-- styles/
 |       |-- theme/
 |           |-- defaultTheme.js
 |           |-- customTheme.js
 |           |-- ...
 |       |-- global.css
+|
 |   |-- tools/
 |       |-- icon-library/
 |           |-- IconLibrary.svelte
@@ -29,6 +33,7 @@ src/
 |       |-- 3d-container/
 |           |-- 3DContainer.svelte
 |           |-- ...
+|
 |   |-- utils/
 |       |-- accessibility.js
 |       |-- animation.js
