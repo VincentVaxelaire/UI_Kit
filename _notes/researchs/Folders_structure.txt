@@ -1,0 +1,68 @@
+src/
+|-- lib/
+|   |-- animations/
+|       |-- fadeIn.svelte
+|       |-- slideIn.svelte
+|       |-- ...
+|   |-- components/
+|       |-- Button.svelte
+|       |-- Input.svelte
+|       |-- Accordion.svelte
+|       |-- ...
+|   |-- experiments/
+|       |-- creative-components/
+|           |-- Marquee.svelte
+|           |-- ...
+|   |-- styles/
+|       |-- theme/
+|           |-- defaultTheme.js
+|           |-- customTheme.js
+|           |-- ...
+|       |-- global.css
+|   |-- tools/
+|       |-- icon-library/
+|           |-- IconLibrary.svelte
+|           |-- ...
+|       |-- gradient-creator/
+|           |-- GradientCreator.svelte
+|           |-- ...
+|       |-- 3d-container/
+|           |-- 3DContainer.svelte
+|           |-- ...
+|   |-- utils/
+|       |-- accessibility.js
+|       |-- animation.js
+|       |-- ...
+|   |-- index.js
+|
+|-- tests/
+|   |-- unit/
+|       |-- Button.test.js
+|       |-- Input.test.js
+|       |-- ...
+|
+|-- routes
+|   |-- docs/
+|       |-- components/
+|           |-- button/
+|               |-- +page.svelte
+|           |-- Input/
+|               |-- +page.svelte
+|           |-- ...
+|       |-- themes/
+|           |-- +page.svelte
+|           |-- ...
+|
+|-- locales/
+|   |-- en/
+|   |-- es/
+|   |-- ...
+|
+community/
+|-- README.md
+|-- CODE_OF_CONDUCT.md
+|-- CONTRIBUTING.md
+|-- ISSUE_TEMPLATE.md
+|-- PULL_REQUEST_TEMPLATE.md
+|-- analytics/ (for tracking component usage)
+
