@@ -3,7 +3,7 @@
 /!\ Des changements sont à prévoir, c'est juste une liste d'idées qui devrait évoluer avec le temps /!\
 
 - [ ] Recherche
-    - [ ] Réfléchir à la structure des fichiers
+    - [x] Réfléchir à la structure des fichiers
     - [ ] Sélectionner les composants courants sur le web
         - [ ] Définir les cas d'utilisation et leur rôle
         - [ ] Rechercher des exemples de designs pour les composants choisis
