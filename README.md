@@ -4,9 +4,9 @@
 
 - [ ] Recherche
     - [x] Réfléchir à la structure des fichiers
-    - [ ] Sélectionner les composants courants sur le web
-        - [ ] Définir les cas d'utilisation et leur rôle
-        - [ ] Rechercher des exemples de designs pour les composants choisis
+    - [x] Sélectionner les composants courants sur le web
+        - [x] Définir les cas d'utilisation et leur rôle
+        - [x] Rechercher des exemples de designs pour les composants choisis
     - [ ] Définir des règles de design communes
     - [ ] Définir des règles de développement communes
 
