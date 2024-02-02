@@ -3,7 +3,4 @@
     export let alt = "User avatar image"
 </script>
 
-// not final html
-<picture>
-    <img src={src} alt={alt}>
-</picture>
+<img src={src} alt={alt}>
